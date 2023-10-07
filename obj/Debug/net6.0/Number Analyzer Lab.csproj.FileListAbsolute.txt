@@ -1,0 +1,14 @@
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\bin\Debug\net6.0\Number Analyzer Lab.exe
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\bin\Debug\net6.0\Number Analyzer Lab.deps.json
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\bin\Debug\net6.0\Number Analyzer Lab.runtimeconfig.json
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\bin\Debug\net6.0\Number Analyzer Lab.dll
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\bin\Debug\net6.0\Number Analyzer Lab.pdb
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\obj\Debug\net6.0\Number Analyzer Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\obj\Debug\net6.0\Number Analyzer Lab.AssemblyInfoInputs.cache
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\obj\Debug\net6.0\Number Analyzer Lab.AssemblyInfo.cs
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\obj\Debug\net6.0\Number Analyzer Lab.csproj.CoreCompileInputs.cache
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\obj\Debug\net6.0\Number Analyzer Lab.dll
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\obj\Debug\net6.0\refint\Number Analyzer Lab.dll
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\obj\Debug\net6.0\Number Analyzer Lab.pdb
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\obj\Debug\net6.0\Number Analyzer Lab.genruntimeconfig.cache
+C:\Users\Jake\class-dev\Projects\Number Analyzer Lab\obj\Debug\net6.0\ref\Number Analyzer Lab.dll
